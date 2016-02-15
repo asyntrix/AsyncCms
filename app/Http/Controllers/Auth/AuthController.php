@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace AsyncCms\Http\Controllers\Auth;
 
-use App\User;
+use AsyncCms\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use AsyncCms\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

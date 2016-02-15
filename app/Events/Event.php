@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace AsyncCms\Events;
 
 abstract class Event
 {

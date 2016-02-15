@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace AsyncCms\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
