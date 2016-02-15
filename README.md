@@ -1,2 +1,2 @@
 # AsyncCms
-Sample larave cms project for noob
+Simple laravel cms for noob.
